@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.social-links {
+  color: white;
+  text-decoration: underline;
+}
+.about {
+  color: rgb(174, 179, 179);
+}
+/* .ms-5 {
+  margin-left: ($spacer * .25) !important;
+} */
